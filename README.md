@@ -3,7 +3,7 @@ A complete backup of the Reddit r/Piracy sub
 
 ## The Archive 
 This is a copy of every post with every comment from January 1st of 2016 to March 20th of 2019
-It is currently located [here](rPiracy.ignorelist.com)
+It is currently located [here](http://rPiracy.ignorelist.com)
 Plaintext Link: rPiracy.ignorelist.com
 
 The link and the server ip may change later so save this repo rather than the actual link.
